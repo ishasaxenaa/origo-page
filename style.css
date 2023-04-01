@@ -98,7 +98,7 @@ nav {
     background: url("./fuits-origo.jpg");
     text-align: center;
   }
-  @media  screen and (min-width:375px) and (max-width:767px) {
+  @media (min-width:375px) and (max-width:767px) {
     .hero-banner{
       height: 29vh;
     }
